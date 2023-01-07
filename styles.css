@@ -39,7 +39,7 @@ section {
 }
 .loader::after {
   content: "";
-  /* position: absolute; */
+  position: absolute;
   top: 50px;
   right: -8px;
   width: 40px;
