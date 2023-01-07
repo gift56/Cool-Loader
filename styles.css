@@ -42,7 +42,7 @@ section {
   position: absolute;
   top: 50px;
   right: -8px;
-  /* width: 40px; */
+  width: 40px;
   height: 40px;
   background: #51eeee;
   border-radius: 50%;
