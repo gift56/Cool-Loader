@@ -6,7 +6,7 @@
 section {
   display: flex;
   justify-content: center;
-  /* align-items: center; */
+  align-items: center;
   min-height: 100vh;
   background: #001d30;
   animation: changeBg 5s linear infinite;
