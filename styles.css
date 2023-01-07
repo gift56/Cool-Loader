@@ -45,6 +45,6 @@ section {
   width: 40px;
   height: 40px;
   background: #51eeee;
-  /* border-radius: 50%; */
-  box-shadow: 0 0 5px #51eeee, 0 0 25px #51eeee, 0 0 50px #51eeee, 0 0 75px #51eeee;
+  border-radius: 50%;
+  /* box-shadow: 0 0 5px #51eeee, 0 0 25px #51eeee, 0 0 50px #51eeee, 0 0 75px #51eeee; */
 }
