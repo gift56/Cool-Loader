@@ -23,7 +23,7 @@ section {
   height: 150px;
   background: linear-gradient(to top #001d30 40%, #51eeee);
   border-radius: 50%;
-  /* animation: rotate 2s linear infinite; */
+  animation: rotate 2s linear infinite;
 }
 @keyframes rotate {
   to {
