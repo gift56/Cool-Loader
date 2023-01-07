@@ -21,7 +21,7 @@ section {
   position: absolute;
   width: 150px;
   height: 150px;
-  background: linear-gradient(to top #001d30 40%, #51eeee);
+  /* background: linear-gradient(to top #001d30 40%, #51eeee); */
   border-radius: 50%;
   animation: rotate 2s linear infinite;
 }
