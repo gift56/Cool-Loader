@@ -3,7 +3,7 @@
   padding: 0;
   box-sizing: border-box;
 }
-section {
+.spinner-container {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -17,7 +17,7 @@ section {
     filter: hue-rotate(360deg);
   }
 }
-.loader {
+.spinner {
   position: absolute;
   width: 150px;
   height: 150px;
@@ -30,14 +30,14 @@ section {
     transform: rotate(360deg);
   }
 }
-.loader::before {
+.spinner::before {
   content: "";
   position: absolute;
   background: #001d30;
   inset: 20px 20px 0 0;
   border-radius: 50%;
 }
-.loader::after {
+.spinner::after {
   content: "";
   position: absolute;
   top: 50px;
@@ -46,5 +46,5 @@ section {
   height: 40px;
   background: #51eeee;
   border-radius: 50%;
-  box-shadow: 0 0 5px #51eeee, 0 0 25px #51eeee, 0 0 50px #51eeee, 0 0 75px #51eeee;
+  box-shadow: 0 0 5px #001d30,0 0 25px #001d30,0 0 50px #001d30,0 0 75px #001d30,;
 }
