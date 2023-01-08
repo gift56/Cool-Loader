@@ -1,3 +1,3 @@
 ### Cool Pre-Loader
 
-#### Live demo <a href="">preloader.netlify.app</a>
+#### Live demo <a href="">coolpreloader.netlify.app</a>
